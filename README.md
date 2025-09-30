@@ -33,5 +33,5 @@ This project enables monitoring of crowd density through images, triggering **ov
 - **OpenCV, NumPy, Matplotlib** – Image processing & visualization.  
 
 ---
-![Crowd Detection](Images/Screenshot 2025-09-30 192018.png)
+![Crowd Detection](Images/Image1.png)
 
